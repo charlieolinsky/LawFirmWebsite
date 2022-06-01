@@ -178,8 +178,9 @@ header .social-icon li a:hover
 .navbar-default .navbar-brand
 	{
 		font-family: 'garamond';
-		font-weight: 500;
-		font-size: 35px;
+		color: #202020;
+		font-weight: 600;
+		font-size: 45px;
 		height: 70px;
 		line-height: 40px;
 		padding: 12px 0px 0px 12px;
