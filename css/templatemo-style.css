@@ -130,7 +130,7 @@ h2 span
 /* start header */
 header
 	{
-		min-height: 20px;
+		
 		padding-top: 18px;
 		padding-bottom: 10px;
 	}
@@ -146,6 +146,7 @@ header span
 	}
 header a
 	{
+
 		color: #999;
 		font-weight: 600;
 	}
@@ -586,10 +587,16 @@ header .social-icon li a:hover
 		{
 			font-size: 52px;
 		}
+	
+	.navbar-default .navbar-brand {
+		font-size: 30px;
+		padding-top: 18px;
+	}
 
 	.templatemo-nav {
 		position: fixed;
     	top: 0;
+		
 	}
 	header {
 		margin-top: 70px;
@@ -610,6 +617,7 @@ header .social-icon li a:hover
 		padding-bottom: 5px;
 		line-height: 35px;
 	}
+	
 }
 /* end 768 media quires */
 
